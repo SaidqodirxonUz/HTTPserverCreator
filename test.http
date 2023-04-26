@@ -1,0 +1,23 @@
+# GET http://localhost:8080/get
+
+# POST http://localhost:8080/post
+
+# PUT http://localhost:8080/put
+
+# PATCH http://localhost:8080/patch
+
+# DELETE http://localhost:8080/delete
+
+
+#######################
+
+
+# GET http://localhost:8081/get
+
+# POST http://localhost:8081/post
+
+# PUT http://localhost:8081/put
+
+# PATCH http://localhost:8081/patch
+
+# DELETE http://localhost:8081/delete
