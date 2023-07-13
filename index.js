@@ -1,4 +1,4 @@
-const { HttpServer, ChildServer } = require("lib");
+const { HttpServer, ChildServer } = require("httpservercreator");
 
 // const server = new HttpServer({ port: 8080 });
 // server.get("/", (request, response) => {
@@ -36,5 +36,5 @@ server2.post("/", (request, response) => {
 });
 
 server2.listen(() => {
-  console.log("server2 3002=portda ishlayapti");
+  console.log("server2 3002 port runned ");
 });
