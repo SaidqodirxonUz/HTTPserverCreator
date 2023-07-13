@@ -1,4 +1,4 @@
-const { HttpServer, ChildServer } = require("lib");
+const { HttpServer, ChildServer } = require("httpservercreator");
 
 // const server = new HttpServer({ port: 8080 });
 
@@ -83,5 +83,5 @@ server2.delete("/delete", (req, res) => {
 ///////////////
 
 server2.listen(() => {
-  //console.log("HTTP server listening on port http://localhost:8081");
+  console.log("HTTP server listening on port http://localhost:8081");
 });
