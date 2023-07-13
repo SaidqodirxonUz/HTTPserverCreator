@@ -2,7 +2,11 @@
 
 ## This library helps you to create a nodejs httpServer
 
-Download the library and define these modules in the library { HttpServer, ChildServer } :
+
+### Download the library :
+npm i httpservercreator
+
+Define these modules in the library { HttpServer, ChildServer } :
 const { HttpServer, ChildServer } = require("httpservercreator");
 
 
