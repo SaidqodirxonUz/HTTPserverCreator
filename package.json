@@ -1,0 +1,26 @@
+{
+  "name": "httpservercreator",
+  "version": "1.0.2",
+  "description": "through this library you can write an http server written in nodejs just like in express :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaidqodirxonUz/HTTPserverCreator.git"
+  },
+  "keywords": [
+    "httpservercreator",
+    "Http Server Creator",
+    "http server",
+    "http server",
+    "http server expressJs"
+  ],
+  "author": "Saidqodirxon Rahimov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaidqodirxonUz/HTTPserverCreator/issues"
+  },
+  "homepage": "https://github.com/SaidqodirxonUz/HTTPserverCreator#readme"
+}
