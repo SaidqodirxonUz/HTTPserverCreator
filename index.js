@@ -1,4 +1,4 @@
-const { HttpServer, ChildServer } = require("httpservercreator");
+const { HttpServer, ChildServer } = require("httpservercreator/httpservercreator/lib");
 
 // const server = new HttpServer({ port: 8080 });
 // server.get("/", (request, response) => {
