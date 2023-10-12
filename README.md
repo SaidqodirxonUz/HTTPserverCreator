@@ -11,7 +11,7 @@ npm i httpservercreator
 Define these modules in the library { HttpServer, ChildServer } :
 
 ```bash
-const { HttpServer, ChildServer } = require("httpservercreator");
+const { HttpServer, ChildServer } = require("httpservercreator/httpservercreator/lib");
 ```
 
 ### Create a server:
